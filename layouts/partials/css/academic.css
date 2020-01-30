@@ -488,6 +488,22 @@ ul.ul-interests li {
   font-size: 0.9rem;
 }
 
+ul.ul-interest {
+  list-style: armenian;
+}
+
+.ul-interest .date {
+  display: inline-block;
+  width: 7rem;
+  text-align: right;
+  padding-right: 0.5rem;
+  font-weight: bold;
+}
+
+ul.ul-interest li {
+  font-size: 0.9rem;
+}
+
 ul.ul-edu {
   list-style: none;
 }
